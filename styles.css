@@ -1,0 +1,36 @@
+p {
+    
+
+}
+img {
+    width: auto;
+    height: 300px;
+    align-items: center;
+    border: 7px solid black; padding: 3px; margin: 10px;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(220, 223, 225);
+}
+h1 {
+    background-color: rgb(48, 126, 133);
+    color: rgb(51, 44, 44);
+    text-align: center;
+}
+div {
+    text-align: center;
+    background-color: white;
+}
+.recipe-list-block {
+    border: 3px solid black; padding: 10px; margin: 20px;
+    font-size: 16px;
+    text-align: left;
+    display: inline-block
+}
+ul {
+    list-style-position: inside;
+}
+#title{
+    font-size: 50px;
+    font-weight: bold;
+}
